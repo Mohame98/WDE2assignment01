@@ -5,7 +5,7 @@ CREATE TABLE client (
 );
 
 INSERT INTO client (client_id, name, email) VALUES 
-(1, 'JO HN',   'john@mail.com'),
+(1, 'JO HN', '  john@mail.com'),
 (2, 'jade', 'jade@mail.comm'),
 (3, 'jillian', 'jillian@milan.com');
 
